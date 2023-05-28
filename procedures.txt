@@ -1,0 +1,3 @@
+npm init
+npm i express mongoose express-session ejs multer dotenv
+npm i -D nodemo
